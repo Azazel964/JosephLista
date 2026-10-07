@@ -1,0 +1,622 @@
+﻿#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_BAR_1_HD_720P.png" group-title="DE | MIX SPORT HD", DE: DAZN BAR 1 HD 720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135336
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_BAR_2_HD_720P.png" group-title="DE | MIX SPORT HD", DE: DAZN BAR 2 HD 720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135337
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/EUROSPORT_1_720P.png" group-title="DE | MIX SPORT HD", DE: EUROSPORT 1  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135338
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_F1_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT F1  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135341
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_GOLF_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT GOLF  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135342
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_MIX_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT MIX  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135343
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_NEWS_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT NEWS  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135344
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_PREMIER_LEAGUE_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT PREMIER LEAGUE  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135345
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_TENNIS_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT TENNIS  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135346
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_TOP_EVENT_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT TOP EVENT  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135347
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_1_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT 1  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135348
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_10_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT 10  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135349
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_2_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT 2  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135350
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_3_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT 3  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135351
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_4_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT 4  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135352
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_5_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT 5  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135353
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_6_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT 6  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135354
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_7_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT 7  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135355
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_8_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT 8  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135356
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_9_720P.png" group-title="DE | MIX SPORT HD", DE: SKY SPORT 9  720P
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135357
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/AUTO_MOTOR_UND_SPORT_HD.png" group-title="DE | MIX SPORT", DE: AUTO MOTOR UND SPORT
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135419
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/CLIPMYHORSE_TV.png" group-title="DE | MIX SPORT", DE: CLIPMYHORSE.TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135420
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_FAST.png" group-title="DE | MIX SPORT", DE: DAZN FAST
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135421
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_RISE_NUR_FRAUEN_SPORT.png" group-title="DE | MIX SPORT", DE: DAZN RISE (NUR FRAUEN SPORT)
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135422
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_1_HD.png" group-title="DE | MIX SPORT", DE: DAZN 1
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135423
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/DAZN_2_HD.png" group-title="DE | MIX SPORT", DE: DAZN 2
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135424
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/EUROSPORT_1_HD.png" group-title="DE | MIX SPORT", DE: EUROSPORT 1
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135425
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/EUROSPORT_2_HD.png" group-title="DE | MIX SPORT", DE: EUROSPORT 2
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135426
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/ORF_SPORT_HD.png" group-title="DE | MIX SPORT", DE: ORF SPORT+
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135432
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SERVUS_TV_MOTORSPORT_HD.png" group-title="DE | MIX SPORT", DE: SERVUS TV MOTORSPORT
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135434
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_F1_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT F1
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135435
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_GOLF_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT GOLF
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135436
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_MIX.png" group-title="DE | MIX SPORT", DE: SKY SPORT MIX
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135437
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_NEWS_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT NEWS
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135438
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_PREMIER_LEAGUE.png" group-title="DE | MIX SPORT", DE: SKY SPORT PREMIER LEAGUE
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135439
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_TENNIS_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT TENNIS
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135440
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_TOP_EVENT.png" group-title="DE | MIX SPORT", DE: SKY SPORT TOP EVENT
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135441
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_1_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT 1
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135442
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_2_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT 2
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135443
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_3_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT 3
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135444
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_4_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT 4
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135445
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_5_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT 5
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135446
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_6_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT 6
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135447
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_7_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT 7
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135448
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_8_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT 8
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135449
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_9_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT 9
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135450
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_10_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT 10
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135451
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_1_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT AUSTRIA 1
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135452
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_3_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT AUSTRIA 3
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135454
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_4_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT AUSTRIA 4
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135455
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_5_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT AUSTRIA 5
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135456
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_6_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT AUSTRIA 6
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135457
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_7_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT AUSTRIA 7
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135458
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_AUSTRIA_8_HD.png" group-title="DE | MIX SPORT", DE: SKY SPORT AUSTRIA 8
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135459
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SPORT1_HD.png" group-title="DE | MIX SPORT", DE: SPORT 1
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135460
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SPORTDIGITAL_EDGE.png" group-title="DE | MIX SPORT", DE: SPORTDIGITAL EDGE
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135461
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/WEDO_SPORTS.png" group-title="DE | MIX SPORT", DE: WEDO SPORTS
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135466
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/ESPORTSONE_HD.png" group-title="DE | MIX SPORT", DE: ESPORTSONE
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/135470
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/chile/directvsports.png" group-title="LAME | CHILE VIP", CL: DIRECTV SPORTS
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/5275
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/chile/13c.png" group-title="LAME | CHILE VIP", CL: 13 C
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/5277
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/chile/cdo.png" group-title="LAME | CHILE VIP", CL: CDO
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/5280
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/chile/chilevision.png" group-title="LAME | CHILE VIP", CL: CHILEVISION
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/5281
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/chile/cnn.png" group-title="LAME | CHILE VIP", CL: CNN
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/5283
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/chile/lared.png" group-title="LAME | CHILE VIP", CL: LA RED
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/5285
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/chile/teletrak.png" group-title="LAME | CHILE VIP", CL: TELETRAK
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/5287
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/chile/tntsports.png" group-title="LAME | CHILE VIP", CL: TNT SPORTS 2
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/5288
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/chile/chilevision.png" group-title="LAME | CHILE VIP", CL: TV CHILE
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/5289
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Zona Latina
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133938
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: ZiZa TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133939
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Voz de Poder
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133940
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Vida TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133943
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Valparaiso Sporting
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133944
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: VC ONLINE
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133947
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Universidad Autónoma Temuco (UATV)
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133948
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: UMAG TV (Punta Arenas)
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133950
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: UCT TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133953
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: U TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133954
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: U Los Lagos
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133955
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Thema TV (La Serena)
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133957
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Tevex
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133959
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Tendencias
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133960
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: TVR CANAL 11
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133961
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: TVO Tocopilla
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133962
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: TV5 Linares
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133964
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: TV Pop
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133968
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: TNT SPORTS Premium
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133971
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: TNT SPORTS 03
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133972
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: TNE
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133975
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: T13
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133977
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Sexta Visión
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133978
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: San Carlos TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133979
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Pura Noticias
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133980
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Puncón TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133981
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Pintana TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133982
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Pichilemu TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133983
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Pauta
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133984
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: POP TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133985
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Nublevisión
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133987
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: NTV Familia
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133988
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: MÁS + TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133989
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Mea Culpa El día Menos Pensado
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133991
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: MEGA noticias
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133992
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Kids90 & Music
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133994
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Holvoet TV (Copiapó)
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133995
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: HIPER CONECTADOS
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133997
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Geovisión (Iquique)
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/133999
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: FAN Pop TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134000
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Evavisión Pachanga (Corporación Eva)
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: EVA VISION TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134003
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: ESTADIO TNT SPORTS
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134004
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: ESPN 6 Fox 3
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134005
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: ESPN
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134007
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Chiloe Red 25
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134012
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Channel TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134013
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Carolina TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134014
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Caracola TV (Peñalolén)
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134015
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CNTV INFANTIL
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134017
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CNN ESPAÑOL
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134018
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CINE PLUS
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134019
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CDTV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134020
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CDO PREMIUM
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134021
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CANAL UCT
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134022
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CANAL Pura NOTICIAS
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134023
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CANAL LOCAL Quillota
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134024
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CANAL Deportes 13D
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134026
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CANAL 8 Los Sauces
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134028
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CANAL 74 San Antonio
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134029
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CANAL 57 Melipilla
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134030
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CANAL 2 (San Antonio)
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134031
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CANAL 13
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134032
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Aysén TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134033
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Atacama TV (Copiapó)
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134034
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Antofagasta TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134035
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Alternativa TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134036
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: ATACAMA TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134037
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: ARAB TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134038
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: 24 HORAS
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134040
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CDF Basico VIP
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134044
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CDO Básico VIP
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134046
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: CNN VIP
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134048
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Gracia TV VIP
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134052
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: LA RED VIP
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134053
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: MEGA VIP
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134054
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: REC TV VIP
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134057
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: Telesur VIP
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134058
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: TVN VIP
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134061
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | CHILE VIP", CL: VTV Valle de Aconcagua VIP
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/134062
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/AE.jpg" group-title="LAME | ARGENTINA VIP", ARG: A&E
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4720
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="LAME | ARGENTINA VIP", ARG: AMC
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4721
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/america24.png" group-title="LAME | ARGENTINA VIP", ARG: AMERICA 24
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4722
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/americatv.png" group-title="LAME | ARGENTINA VIP", ARG: AMERICA TV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4723
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/axn.png" group-title="LAME | ARGENTINA VIP", ARG: AXN
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4725
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/boomeranglow.png" group-title="LAME | ARGENTINA VIP", ARG: BOOMERANG
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4727
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/c5n-ar.png" group-title="LAME | ARGENTINA VIP", ARG: C5N
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4728
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/CANAL.png" group-title="LAME | ARGENTINA VIP", ARG: EL TRECE (CANAL 13)
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4729
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/CANAL21.png" group-title="LAME | ARGENTINA VIP", ARG: CANAL 21
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4730
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/CANAL26.png" group-title="LAME | ARGENTINA VIP", ARG: CANAL 26
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4731
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/canal-4-ar.png" group-title="LAME | ARGENTINA VIP", ARG: CANAL 4
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4733
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/CANAL9.png" group-title="LAME | ARGENTINA VIP", ARG: EL NUEVE (CANAL 9)
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4734
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/CANALSALTA.jpg" group-title="LAME | ARGENTINA VIP", ARG: CANAL 9 SALTA
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4735
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/cartoonnetworkwest.png" group-title="LAME | ARGENTINA VIP", ARG: CARTOON NETWORK
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4738
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/cine-ar-ar.png" group-title="LAME | ARGENTINA VIP", ARG: CINEAR
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4739
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/cinecanal.png" group-title="LAME | ARGENTINA VIP", ARG: CINECANAL
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4740
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="LAME | ARGENTINA VIP", ARG: CINEMAX
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4741
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/ciudadmagazine.png" group-title="LAME | ARGENTINA VIP", ARG: CIUDAD MAGAZINE
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4742
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/cronica-hd-ar.png" group-title="LAME | ARGENTINA VIP", ARG: CRONICA
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4746
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/DEPORTVF.png" group-title="LAME | ARGENTINA VIP", ARG: DEPORTV FHD
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4747
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="LAME | ARGENTINA VIP", ARG: DIRECTV SPORTS
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4748
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/DIRECTVSPORTS+.png" group-title="LAME | ARGENTINA VIP", ARG: DIRECTV SPORTS +
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4749
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/directvsports2.png" group-title="LAME | ARGENTINA VIP", ARG: DIRECTV SPORTS 2
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4750
+
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/disneychannel.png" group-title="LAME | ARGENTINA VIP", ARG: DISNEY
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4751
+
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/disneyxd.png" group-title="LAME | ARGENTINA VIP", ARG: DISNEY XD
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4753
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/E!.png" group-title="LAME | ARGENTINA VIP", ARG: E!
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4755
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/encuentro.png" group-title="LAME | ARGENTINA VIP", ARG: ENCUENTRO
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4756
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="LAME | ARGENTINA VIP", ARG: ESPN 2
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4758
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="LAME | ARGENTINA VIP", ARG: ESPN 3
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4759
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/europa-europa-ar.png" group-title="LAME | ARGENTINA VIP", ARG: EUROPA
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4761
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/film-and-arts-ar.png" group-title="LAME | ARGENTINA VIP", ARG: FILM &AMP; ARTS
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4762
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/foxnews.png" group-title="LAME | ARGENTINA VIP", ARG: FOX NEWS
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4763
+
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="LAME | ARGENTINA VIP", ARG: FOX SPORTS 1
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4764
+
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="LAME | ARGENTINA VIP", ARG: FOX SPORTS 2
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4765
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-3-ar.png" group-title="LAME | ARGENTINA VIP", ARG: FOX SPORTS 3
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4766
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="LAME | ARGENTINA VIP", ARG: FOX SPORTS PREMIUM
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4767
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/fx-ar.png" group-title="LAME | ARGENTINA VIP", ARG: FX
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4768
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/garagetv.png" group-title="LAME | ARGENTINA VIP", ARG: GARAGE
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4769
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/golf-channel-ar.png" group-title="LAME | ARGENTINA VIP", ARG: GOLF CHANNEL
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4771
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/H2.jpg" group-title="LAME | ARGENTINA VIP", ARG: H2
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4773
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/hbo-2-ar.png" group-title="LAME | ARGENTINA VIP", ARG: HBO 2
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4775
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/htv-ar.png" group-title="LAME | ARGENTINA VIP", ARG: HTV
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4779
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/LN.jpg" group-title="LAME | ARGENTINA VIP", ARG: LN
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4781
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/mas-chic-ar.png" group-title="LAME | ARGENTINA VIP", ARG: MAS CHIC
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4782
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/metro-ar.png" group-title="LAME | ARGENTINA VIP", ARG: METRO
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4786
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/paramount-network-ar.png" group-title="LAME | ARGENTINA VIP", ARG: PARAMOUNT
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4795
+
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/pxsports.png" group-title="LAME | ARGENTINA VIP", ARG: PX SPORTS
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4796
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/space-ar.png" group-title="LAME | ARGENTINA VIP", ARG: SPACE
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4802
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/syfy-ar.png" group-title="LAME | ARGENTINA VIP", ARG: SYFY
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4804
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/tbs-ar.png" group-title="LAME | ARGENTINA VIP", ARG: TBS VERY FUNNY
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4805
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="LAME | ARGENTINA VIP", ARG: TELEFE
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4807
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/telesur.png" group-title="LAME | ARGENTINA VIP", ARG: TELESUR
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4810
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/televisionpublica.png" group-title="LAME | ARGENTINA VIP", ARG: TELEVISION PUBLICA
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4811
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/tnt-ar.png" group-title="LAME | ARGENTINA VIP", ARG: TNT
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4813
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/tnt-sports-ar.png" group-title="LAME | ARGENTINA VIP", ARG: TNT SPORTS
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4815
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/argentina/tveinternacional.png" group-title="LAME | ARGENTINA VIP", ARG: TVE
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4820
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="LAME | ARGENTINA VIP", ARG: TYC SPORTS
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4822
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries//argentina/volver-ar.png" group-title="LAME | ARGENTINA VIP", ARG: VOLVER
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4825
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAME | ARGENTINA VIP", ARG: ESPN PREMIUM
+http://s99.rpyepsv.top:8080/VIP018851759691843991/e66ca2b5221d/4828
